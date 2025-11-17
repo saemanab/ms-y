@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>net.saadbr</groupId>
-	<artifactId>gateaway-service</artifactId>
+	<artifactId>gateway-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>gateaway-service</name>
-	<description>gateaway-service</description>
+	<name>gateway-service</name>
+	<description>gateway-service</description>
 	<url/>
 	<licenses>
 		<license/>
